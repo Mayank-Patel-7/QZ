@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const out = path.join(__dirname, 'QZ');
-const filesToCopy = ['quiz.html', 'quiz.js', 'questions.js', 'quiz.css'];
+const filesToCopy = ['index.html', 'quiz.js', 'questions.js', 'quiz.css'];
 
 // ensure output directory exists and is empty
 if (fs.existsSync(out)) {
