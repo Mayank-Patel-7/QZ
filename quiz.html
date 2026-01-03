@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>IN301H — Quiz</title>
+  <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="h1">IN301H — Question Sets Quiz</div>
+      <div class="controls">
+        <select id="setSelect"></select>
+        <button id="startBtn">Start Quiz</button>
+      </div>
+    </div>
+
+    <div id="quizArea">
+      <div id="questionBox" class="card small">Choose a set and click Start Quiz to begin.</div>
+
+      <aside class="palette" id="palette" aria-label="Question navigator" style="display:none">
+        <h4>Questions</h4>
+        <div class="progress" aria-hidden="true"><i id="progressBar"></i></div>
+        <div class="list" id="paletteList"></div>
+        <div id="paletteFooter" class="small">
+          <div><span id="answeredCount">0</span> / <span id="totalCount">0</span> answered</div>
+          <div style="margin-top:8px"><button id="showResultsBtn" class="ghost">Show Results</button></div>
+        </div>
+      </aside>
+
+      <div id="quizControls" style="display:none">
+        <div class="nav">
+          <button id="prevBtn">◀ Previous</button>
+          <button id="nextBtn">Next ▶</button>
+          <button id="submitBtn">Submit</button>
+          <button id="restartBtn">Restart</button>
+        </div>
+      </div>
+
+      <div id="results"></div>
+    </div>
+
+    <div class="footer small">Tips: Use <strong>Next</strong>/<strong>Previous</strong> to navigate. Your answers are saved automatically.</div>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="quiz.js"></script>
+</body>
+</html>
