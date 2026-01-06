@@ -405,4 +405,5 @@ window.ALL_SETS = {
     { unit: "Unit III", q: "HRM contributes to organizational success mainly by:", options: ['Increasing capital', 'Reducing taxes', 'Effective utilization of human resources', 'Improving technology'], answer: 2 },
   ],
 
+  
 };
