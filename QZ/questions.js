@@ -407,7 +407,7 @@ window.ALL_SETS = {
 
 
   // UNIT IV - Marketing and Market Environment
-  set_unit4_1: [
+  set_unit4: [
     { unit: "Unit IV", q: "A market is best defined as:", options: ['A physical place where goods are sold', 'A group of intermediaries', 'A set of buyers and sellers engaged in exchange', 'A government-controlled system'], answer: 2 },
     { unit: "Unit IV", q: "Which of the following is a core function of the marketing department?", options: ['Recruitment', 'Product planning', 'Wage administration', 'Plant maintenance'], answer: 1 },
     { unit: "Unit IV", q: "The marketing concept focuses mainly on:", options: ['Maximizing production', 'Selling existing products', 'Customer satisfaction', 'Reducing costs'], answer: 2 },
@@ -428,10 +428,7 @@ window.ALL_SETS = {
     { unit: "Unit IV", q: "A sudden change in government tax policy will affect marketing decisions through:", options: ['Economic environment', 'Legal environment', 'Technological environment', 'Competitive environment'], answer: 1 },
     { unit: "Unit IV", q: "If customers shift preference due to social media influence, the firm must adjust mainly its:", options: ['Production plan', 'Promotional strategy', 'Accounting system', 'Warehousing method'], answer: 1 },
     { unit: "Unit IV", q: "Analyzing consumer feedback to improve product features is part of:", options: ['Selling concept', 'Production concept', 'Marketing concept', 'Financial concept'], answer: 2 }
-  ],
-
-  // UNIT IV - Market Research and Sales
-  set_unit4_2: [
+  ,
     { unit: "Unit IV", q: "Market research is the process of collecting information about:", options: ['Employees', 'Consumers and markets', 'Production', 'Finance'], answer: 1 },
     { unit: "Unit IV", q: "Marketing mix consists of:", options: ['3Ps', '4Ps', '5Ps', '6Ps'], answer: 1 },
     { unit: "Unit IV", q: "Sales forecasting means:", options: ['Estimating future sales', 'Increasing sales', 'Recording sales', 'Promoting sales'], answer: 0 },
@@ -447,10 +444,7 @@ window.ALL_SETS = {
     { unit: "Unit IV", q: "TV and radio come under:", options: ['Print media', 'Electronic media', 'Outdoor media', 'Digital media'], answer: 1 },
     { unit: "Unit IV", q: "Wrong sales forecasting mainly affects:", options: ['Production and inventory', 'HR', 'Quality control', 'Maintenance'], answer: 0 },
     { unit: "Unit IV", q: "Selection of newspaper for ads depends on:", options: ['Paper quality', 'Circulation and readership', 'Printing cost', 'Office location'], answer: 1 }
-  ],
-
-  // UNIT IV - Inventory Control
-  set_unit4_3: [
+  ,
     { unit: "Unit IV", q: "Inventory means:", options: ['Cash', 'Stock of goods', 'Profit', 'Machinery'], answer: 1 },
     { unit: "Unit IV", q: "Inventory control aims to:", options: ['Increase stock', 'Reduce stock to zero', 'Maintain optimum stock', 'Stop production'], answer: 2 },
     { unit: "Unit IV", q: "Raw material is a type of:", options: ['Finished goods', 'Inventory item', 'Tool', 'Asset'], answer: 1 },
@@ -466,10 +460,7 @@ window.ALL_SETS = {
     { unit: "Unit IV", q: "Poor inventory control leads to:", options: ['Smooth production', 'Increased cost', 'Better profit', 'Less storage'], answer: 1 },
     { unit: "Unit IV", q: "Combining ABC and VED helps in:", options: ['Pricing', 'Better inventory decision', 'Advertising', 'Accounting'], answer: 1 },
     { unit: "Unit IV", q: "Stock of semi-finished goods is called:", options: ['Raw material', 'Finished goods', 'Work-in-progress', 'Scrap'], answer: 2 }
-  ],
-
-  // UNIT IV - Product Cost and Depreciation
-  set_unit4_4: [
+ ,
     { unit: "Unit IV", q: "Product cost includes:", options: ['Material, labour, overheads', 'Profit only', 'Taxes', 'Advertising'], answer: 0 },
     { unit: "Unit IV", q: "Direct cost is directly related to:", options: ['Office', 'Product', 'Management', 'Sales'], answer: 1 },
     { unit: "Unit IV", q: "Indirect cost is also called:", options: ['Prime cost', 'Overhead', 'Material cost', 'Labour cost'], answer: 1 },
@@ -519,10 +510,7 @@ window.ALL_SETS = {
     { unit: "Unit V", q: "QA improves:", options: ['Brand image', 'Inventory', 'Transport', 'Accounting'], answer: 0 },
     { unit: "Unit V", q: "Inspection after production is:", options: ['QA', 'QC', 'TQM', 'ISO'], answer: 1 },
     { unit: "Unit V", q: "Meeting customer expectations defines:", options: ['Cost', 'Quality', 'Profit', 'Output'], answer: 1 }
-  ],
-
-  // UNIT V - TQM
-  set_unit5_2: [
+,
     { unit: "Unit V", q: "TQM stands for:", options: ['Total Quality Method', 'Total Quality Management', 'Technical Quality Management', 'Team Quality Management'], answer: 1 },
     { unit: "Unit V", q: "TQM focuses on:", options: ['Inspection', 'Continuous improvement', 'Profit only', 'Marketing'], answer: 1 },
     { unit: "Unit V", q: "TQM involves:", options: ['Top management only', 'Workers only', 'Entire organization', 'Customers only'], answer: 2 },
@@ -538,10 +526,7 @@ window.ALL_SETS = {
     { unit: "Unit V", q: "Training employees supports:", options: ['QC', 'QA', 'TQM', 'ISO'], answer: 2 },
     { unit: "Unit V", q: "TQM success is measured by:", options: ['Profit only', 'Customer satisfaction', 'Production volume', 'Stock level'], answer: 1 },
     { unit: "Unit V", q: "Continuous feedback is essential in:", options: ['QC', 'TQM', 'Advertising', 'Finance'], answer: 1 }
-  ],
-
-  // UNIT V - Quality Techniques
-  set_unit5_3: [
+ ,
     { unit: "Unit V", q: "Lean manufacturing focuses on:", options: ['Profit', 'Waste elimination', 'Inspection', 'Inventory'], answer: 1 },
     { unit: "Unit V", q: "JIT means:", options: ['Just In Time', 'Job In Training', 'Joint Inspection Tool', 'Just In Transit'], answer: 0 },
     { unit: "Unit V", q: "5S originated in:", options: ['USA', 'Japan', 'Germany', 'India'], answer: 1 },
@@ -557,10 +542,7 @@ window.ALL_SETS = {
     { unit: "Unit V", q: "Defect reduction technique is:", options: ['Lean', 'Six Sigma', '5S', 'JIT'], answer: 1 },
     { unit: "Unit V", q: "Continuous small improvements indicate:", options: ['JIT', 'Kaizen', 'Six Sigma', 'ISO'], answer: 1 },
     { unit: "Unit V", q: "Reducing waste improves:", options: ['Profit and quality', 'Inventory only', 'Sales only', 'HR'], answer: 0 }
-  ],
-
-  // UNIT V - Quality Circle and ISO
-  set_unit5_4: [
+ ,
     { unit: "Unit V", q: "Quality circle is a group of:", options: ['Managers', 'Workers and supervisors', 'Customers', 'Inspectors'], answer: 1 },
     { unit: "Unit V", q: "ISO stands for:", options: ['International Safety Organization', 'International Organization for Standardization', 'Indian Standards Office', 'Industrial Safety Office'], answer: 1 },
     { unit: "Unit V", q: "ISO 9000 relates to:", options: ['Environment', 'Quality management system', 'Safety', 'Finance'], answer: 1 },
@@ -576,10 +558,7 @@ window.ALL_SETS = {
     { unit: "Unit V", q: "ISO improves:", options: ['Customer confidence', 'Inventory', 'Transport', 'Salary'], answer: 0 },
     { unit: "Unit V", q: "ISO 9001:2015 emphasizes:", options: ['Documentation', 'Risk-based thinking', 'Inspection only', 'Cost'], answer: 1 },
     { unit: "Unit V", q: "Quality circles mainly solve:", options: ['Financial problems', 'Work-related problems', 'Legal issues', 'Marketing issues'], answer: 1 }
-  ],
-
-  // UNIT V - ISO vs TQM
-  set_unit5_5: [
+ ,
     { unit: "Unit V", q: "ISO 9000 is a:", options: ['Philosophy', 'Standard', 'Technique', 'Tool'], answer: 1 },
     { unit: "Unit V", q: "TQM is a:", options: ['Standard', 'Inspection method', 'Management philosophy', 'Certification'], answer: 2 },
     { unit: "Unit V", q: "ISO certification is given by:", options: ['Company itself', 'External agency', 'Government only', 'Customers'], answer: 1 },
@@ -613,10 +592,7 @@ window.ALL_SETS = {
     { unit: "Unit VI", q: "Project planning reduces:", options: ['Uncertainty', 'Profit', 'Teamwork', 'Resources'], answer: 0 },
     { unit: "Unit VI", q: "Multiple projects require:", options: ['Scheduling tools', 'Advertising', 'Inspection', 'ISO'], answer: 0 },
     { unit: "Unit VI", q: "Project management improves customer:", options: ['Complaints', 'Satisfaction', 'Delay', 'Cost'], answer: 1 }
-  ],
-
-  // UNIT VI - Project Objectives and Scope
-  set_unit6_2: [
+ ,
     { unit: "Unit VI", q: "Project objective defines:", options: ['Cost only', 'What project must achieve', 'Resources', 'Tools'], answer: 1 },
     { unit: "Unit VI", q: "Project scope defines:", options: ['Time', 'Budget', 'Work to be done', 'Team'], answer: 2 },
     { unit: "Unit VI", q: "Objectives should be:", options: ['Vague', 'Clear and specific', 'Optional', 'Hidden'], answer: 1 },
@@ -632,10 +608,7 @@ window.ALL_SETS = {
     { unit: "Unit VI", q: "Stakeholder agreement reduces:", options: ['Scope creep', 'Resources', 'Quality', 'Time'], answer: 0 },
     { unit: "Unit VI", q: "Scope control is part of:", options: ['Planning', 'Execution', 'Monitoring and control', 'Closing'], answer: 2 },
     { unit: "Unit VI", q: "Well-defined scope ensures:", options: ['Project success', 'Delay', 'Conflict', 'Waste'], answer: 0 }
-  ],
-
-  // UNIT VI - Managing Scope and Stakeholders
-  set_unit6_3: [
+,
     { unit: "Unit VI", q: "Clear objectives help align:", options: ['Team and stakeholders', 'Sales', 'Accounts', 'HR'], answer: 0 },
     { unit: "Unit VI", q: "Scope creep occurs due to:", options: ['Poor communication', 'Clear scope', 'Planning', 'Control'], answer: 0 },
     { unit: "Unit VI", q: "Stakeholders are:", options: ['Team members', 'Interested parties', 'Customers only', 'Workers only'], answer: 1 },
@@ -651,10 +624,7 @@ window.ALL_SETS = {
     { unit: "Unit VI", q: "Poor stakeholder communication leads to:", options: ['Scope creep', 'Control', 'Quality', 'Success'], answer: 0 },
     { unit: "Unit VI", q: "Change control board helps:", options: ['Manage scope changes', 'Increase cost', 'Delay project', 'Reduce quality'], answer: 0 },
     { unit: "Unit VI", q: "Best way to prevent scope creep is:", options: ['Clear scope definition', 'More workers', 'More budget', 'Faster work'], answer: 0 }
-  ],
-
-  // UNIT VI - Project Planning and Scope Delivery
-  set_unit6_4: [
+,
     { unit: "Unit VI", q: "Project planning is done:", options: ['After completion', 'Before execution', 'During closing', 'After delivery'], answer: 1 },
     { unit: "Unit VI", q: "Planning includes:", options: ['Scheduling and budgeting', 'Advertising', 'Sales', 'Accounting'], answer: 0 },
     { unit: "Unit VI", q: "Project plan acts as:", options: ['Guide', 'Report', 'Invoice', 'Contract'], answer: 0 },
@@ -670,10 +640,7 @@ window.ALL_SETS = {
     { unit: "Unit VI", q: "Scope delivery failure causes:", options: ['Customer dissatisfaction', 'Profit', 'Growth', 'Expansion'], answer: 0 },
     { unit: "Unit VI", q: "Planning helps control:", options: ['Time and cost', 'Salary', 'Marketing', 'Quality only'], answer: 0 },
     { unit: "Unit VI", q: "Project success depends heavily on:", options: ['Planning quality', 'Advertising', 'Inspection', 'Sales'], answer: 0 }
-  ],
-
-  // UNIT VI - Gantt Chart, CPM, PERT
-  set_unit6_5: [
+,
     { unit: "Unit VI", q: "Gantt chart shows:", options: ['Cost', 'Schedule vs time', 'Quality', 'Risk'], answer: 1 },
     { unit: "Unit VI", q: "CPM stands for:", options: ['Critical Path Method', 'Cost Planning Model', 'Control Process Method', 'Critical Project Model'], answer: 0 },
     { unit: "Unit VI", q: "PERT is used for:", options: ['Deterministic time', 'Probabilistic time estimation', 'Cost control', 'Quality'], answer: 1 },
@@ -689,10 +656,7 @@ window.ALL_SETS = {
     { unit: "Unit VI", q: "Overloaded resources cause:", options: ['Delay and inefficiency', 'Faster work', 'Profit', 'Quality'], answer: 0 },
     { unit: "Unit VI", q: "Best visual tool for tracking progress is:", options: ['Gantt chart', 'Balance sheet', 'SPC', 'Histogram'], answer: 0 },
     { unit: "Unit VI", q: "Critical path determines:", options: ['Minimum project duration', 'Maximum cost', 'Quality', 'Resources'], answer: 0 }
-  ],
-
-  // UNIT VI - Project Monitoring and Control
-  set_unit6_6: [
+ ,
     { unit: "Unit VI", q: "Project monitoring involves:", options: ['Tracking progress', 'Selling', 'Advertising', 'Hiring'], answer: 0 },
     { unit: "Unit VI", q: "Control ensures project stays within:", options: ['Plan', 'Sales', 'Marketing', 'Audit'], answer: 0 },
     { unit: "Unit VI", q: "Monitoring compares:", options: ['Planned vs actual performance', 'Cost vs profit', 'Quality vs price', 'Sales vs stock'], answer: 0 },
