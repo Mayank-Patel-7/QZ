@@ -1101,5 +1101,354 @@ window.ALL_SETS = {
     { unit: "Unit III", q: "Supervisor reporting daily performance to management is performing:", options: ['Communication function', 'Control function', 'Liaison function', 'Safety function'], answer: 2 }
   ],
 
+
+
+  
+
+  // Industrial Management MCQ Sets - Converted Format
+
+ new_set1 : [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Which function of management involves setting objectives?", options: ['Organizing', 'Planning', 'Controlling', 'Staffing'], answer: 1 },
+  { unit: "Unit I", q: "Administration mainly focuses on:", options: ['Routine operations', 'Execution of plans', 'Policy making', 'Supervisory work'], answer: 2 },
+  { unit: "Unit I", q: "Middle level management mainly acts as a link between:", options: ['Workers and supervisors', 'Top and lower management', 'Owners and customers', 'Managers and suppliers'], answer: 1 },
+  { unit: "Unit I", q: "A business owned by two or more persons sharing profit is called:", options: ['Sole trade', 'Partnership', 'Joint stock company', 'Cooperative'], answer: 1 },
+  { unit: "Unit I", q: "One boss for one subordinate reflects which principle?", options: ['Unity of command', 'Discipline', 'Authority', 'Equity'], answer: 0 },
+  { unit: "Unit I", q: "Purchase department reporting to production manager indicates:", options: ['Line organization', 'Functional organization', 'Project organization', 'Matrix organization'], answer: 1 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Working capital is used for:", options: ['Land purchase', 'Machinery purchase', 'Daily operations', 'Building construction'], answer: 2 },
+  { unit: "Unit II", q: "Debenture holders are considered as:", options: ['Owners', 'Creditors', 'Managers', 'Promoters'], answer: 1 },
+  { unit: "Unit II", q: "Contribution is calculated as:", options: ['Sales - Fixed cost', 'Sales - Variable cost', 'Fixed cost - Variable cost', 'Profit - Cost'], answer: 1 },
+  { unit: "Unit II", q: "If selling price = ₹50 and variable cost = ₹30, contribution is:", options: ['₹10', '₹15', '₹20', '₹30'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost = ₹40,000 and contribution/unit = ₹20. BEP (units) =", options: ['1,000', '1,500', '2,000', '2,500'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Machine cost ₹80,000, scrap ₹0, life 8 years. Straight line depreciation/year =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Annual demand 1,600 units, ordering cost ₹25, carrying cost ₹4/unit. EOQ =", options: ['100', '141', '200', '283'], answer: 1 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HRM deals with management of:", options: ['Machines', 'Money', 'Materials', 'Manpower'], answer: 3 },
+  { unit: "Unit III", q: "Selection comes after which HR activity?", options: ['Training', 'Recruitment', 'Motivation', 'Appraisal'], answer: 1 },
+  { unit: "Unit III", q: "ESI Act mainly provides:", options: ['Bonus', 'Medical benefits', 'Compensation', 'Retirement benefits'], answer: 1 },
+  { unit: "Unit III", q: "Fire extinguishers in factory are related to:", options: ['Welfare', 'Training', 'Safety engineering', 'Supervision'], answer: 2 },
+  { unit: "Unit III", q: "Democratic supervision encourages:", options: ['Centralized power', 'Worker participation', 'Strict discipline', 'Fear'], answer: 1 },
+  { unit: "Unit III", q: "Training provided after appointment is called:", options: ['Induction', 'Recruitment', 'Selection', 'Placement'], answer: 0 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Marketing starts with:", options: ['Production', 'Selling', 'Customer needs', 'Advertisement'], answer: 2 },
+  { unit: "Unit IV", q: "Product, Price, Place, Promotion are called:", options: ['Market forces', 'Marketing mix', 'Sales mix', 'Distribution mix'], answer: 1 },
+  { unit: "Unit IV", q: "VED analysis is based on:", options: ['Cost', 'Demand', 'Criticality', 'Quantity'], answer: 2 },
+  { unit: "Unit IV", q: "Advertisement mainly supports which element?", options: ['Price', 'Place', 'Promotion', 'Product'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Demand 900 units, ordering cost ₹20, carrying cost ₹2/unit. EOQ =", options: ['95', '134', '150', '190'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Cost price ₹1,000. Profit 25% on cost. Selling price =", options: ['₹1,200', '₹1,250', '₹1,300', '₹1,400'], answer: 1 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "Kaizen means:", options: ['Innovation', 'Zero defect', 'Continuous improvement', 'Inspection'], answer: 2 },
+  { unit: "Unit V", q: "Quality assurance focuses on:", options: ['Detection', 'Prevention', 'Rework', 'Inspection'], answer: 1 },
+  { unit: "Unit V", q: "Six Sigma aims at reducing:", options: ['Cost', 'Inventory', 'Variations', 'Workers'], answer: 2 },
+  { unit: "Unit V", q: "Maintaining cleanliness comes under:", options: ['Seiri', 'Seiton', 'Seiso', 'Shitsuke'], answer: 2 },
+  { unit: "Unit V", q: "ISO certification improves:", options: ['Sales tax', 'Quality consistency', 'Wages', 'Inventory cost'], answer: 1 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "PERT is mainly used when time is:", options: ['Fixed', 'Known', 'Uncertain', 'Zero'], answer: 2 },
+  { unit: "Unit VI", q: "Project planning mainly helps in:", options: ['Confusion', 'Delay', 'Proper execution', 'Cost increase'], answer: 2 },
+  { unit: "Unit VI", q: "CPM identifies:", options: ['Longest path', 'Cheapest path', 'Critical path', 'Shortest path'], answer: 2 },
+  { unit: "Unit VI", q: "Activity with maximum duration affects:", options: ['Profit', 'Quality', 'Project completion', 'Inventory'], answer: 2 },
+  { unit: "Unit VI", q: "Gantt chart shows:", options: ['Cost vs profit', 'Time vs activity', 'Quality vs cost', 'Risk vs time'], answer: 1 },
+],
+
+ new_set2 : [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Management principles were given by:", options: ['Taylor', 'Fayol', 'Mayo', 'Drucker'], answer: 1 },
+  { unit: "Unit I", q: "Management is called a social process because it:", options: ['Deals with machines', 'Deals with money', 'Works through people', 'Is government controlled'], answer: 2 },
+  { unit: "Unit I", q: "Lower level management is mainly responsible for:", options: ['Policy formulation', 'Strategic planning', 'Operational control', 'Resource allocation'], answer: 2 },
+  { unit: "Unit I", q: "A business owned by shareholders with limited liability is:", options: ['Partnership', 'Sole trade', 'Joint stock company', 'Cooperative'], answer: 2 },
+  { unit: "Unit I", q: "Discipline in organization means:", options: ['Punishment', 'Obedience to rules', 'Authority', 'Leadership'], answer: 1 },
+  { unit: "Unit I", q: "If production manager gives orders directly to workers, it is:", options: ['Functional org.', 'Line org.', 'Project org.', 'Matrix org.'], answer: 1 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Shares represent:", options: ['Loan capital', 'Borrowed funds', 'Ownership capital', 'Government funds'], answer: 2 },
+  { unit: "Unit II", q: "Preference shareholders get:", options: ['Voting rights', 'Variable dividend', 'Fixed dividend', 'No dividend'], answer: 2 },
+  { unit: "Unit II", q: "Break-even analysis helps in:", options: ['Tax planning', 'Profit planning', 'Wage fixation', 'Inventory control'], answer: 1 },
+  { unit: "Unit II", q: "Selling price = ₹60, variable cost = ₹35. Contribution =", options: ['₹15', '₹20', '₹25', '₹30'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost = ₹30,000, contribution/unit = ₹15. BEP =", options: ['1,000', '1,500', '2,000', '3,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Cost ₹90,000, scrap ₹10,000, life 8 years. SLM depreciation =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 1 },
+  { unit: "Unit II", q: "(Numerical) Demand 3,600 units, ordering cost ₹25, carrying cost ₹1/unit. EOQ =", options: ['300', '424', '600', '848'], answer: 1 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "Training given to new employees is called:", options: ['Promotion', 'Induction', 'Transfer', 'Motivation'], answer: 1 },
+  { unit: "Unit III", q: "Motivation increases:", options: ['Absenteeism', 'Labor turnover', 'Productivity', 'Conflict'], answer: 2 },
+  { unit: "Unit III", q: "Factory Act mainly relates to:", options: ['Wages', 'Safety & welfare', 'Insurance', 'Bonus'], answer: 1 },
+  { unit: "Unit III", q: "Safety shoes are used to prevent:", options: ['Fire', 'Chemical hazard', 'Foot injury', 'Electric shock'], answer: 2 },
+  { unit: "Unit III", q: "Laissez-faire supervision means:", options: ['Strict control', 'No control', 'Partial control', 'Autocratic control'], answer: 1 },
+  { unit: "Unit III", q: "Training improves mainly:", options: ['Discipline', 'Skill', 'Age', 'Strength'], answer: 1 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Selling price includes:", options: ['Cost only', 'Profit only', 'Cost + profit', 'Loss'], answer: 2 },
+  { unit: "Unit IV", q: "Sales forecasting helps in:", options: ['Wage fixation', 'Production planning', 'Recruitment', 'Training'], answer: 1 },
+  { unit: "Unit IV", q: "'A' class items in ABC analysis require:", options: ['Least control', 'Moderate control', 'Strict control', 'No control'], answer: 2 },
+  { unit: "Unit IV", q: "Discount is mainly used to:", options: ['Increase cost', 'Increase demand', 'Reduce quality', 'Increase stock'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Demand 1,600 units, ordering cost ₹20, carrying cost ₹5. EOQ =", options: ['80', '113', '160', '200'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Cost price ₹800, profit 15% on selling price. SP =", options: ['₹920', '₹940', '₹960', '₹980'], answer: 1 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "Quality control focuses on:", options: ['Planning', 'Inspection', 'Motivation', 'Training'], answer: 1 },
+  { unit: "Unit V", q: "Customer-focused quality is called:", options: ['QC', 'QA', 'TQM', 'TPM'], answer: 2 },
+  { unit: "Unit V", q: "ISO stands for:", options: ['Indian Standard Org', 'International Standard Org', 'Internal Safety Org', 'Industrial Safety Org'], answer: 1 },
+  { unit: "Unit V", q: "Standardizing work procedures is:", options: ['Seiri', 'Seiton', 'Seiketsu', 'Seiso'], answer: 2 },
+  { unit: "Unit V", q: "Six Sigma level corresponds to defects per million =", options: ['3.4', '34', '340', '3,400'], answer: 0 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "CPM was developed for:", options: ['Research projects', 'Construction projects', 'Defense projects', 'Education projects'], answer: 1 },
+  { unit: "Unit VI", q: "Project objectives should be:", options: ['Vague', 'Flexible', 'Clearly defined', 'Ignored'], answer: 2 },
+  { unit: "Unit VI", q: "PERT uses:", options: ['Single time estimate', 'Two time estimates', 'Three time estimates', 'No time estimate'], answer: 2 },
+  { unit: "Unit VI", q: "Delay in critical activity results in:", options: ['No effect', 'Early completion', 'Project delay', 'Cost reduction'], answer: 2 },
+  { unit: "Unit VI", q: "Slack time is associated with:", options: ['Critical path', 'Non-critical activities', 'Dummy activity', 'Milestone'], answer: 1 },
+],
+
+ new_set3 : [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Which is NOT a function of management?", options: ['Planning', 'Organizing', 'Accounting', 'Controlling'], answer: 2 },
+  { unit: "Unit I", q: "Organization structure defines:", options: ['Profit sharing', 'Authority-responsibility relationship', 'Wage structure', 'Tax policy'], answer: 1 },
+  { unit: "Unit I", q: "Management at supervisory level deals mainly with:", options: ['Strategy', 'Policy', 'Execution', 'Planning'], answer: 2 },
+  { unit: "Unit I", q: "If employees report to more than one boss, it violates:", options: ['Equity', 'Discipline', 'Unity of command', 'Authority'], answer: 2 },
+  { unit: "Unit I", q: "A voluntary association formed to protect member interest is:", options: ['Partnership', 'Cooperative society', 'Sole trade', 'Company'], answer: 1 },
+  { unit: "Unit I", q: "When production manager has authority over all workers, it is:", options: ['Line organization', 'Functional organization', 'Matrix organization', 'Project organization'], answer: 0 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Finance is required for:", options: ['Planning only', 'Production only', 'Every business activity', 'Marketing only'], answer: 2 },
+  { unit: "Unit II", q: "Working capital depends upon:", options: ['Business size', 'Government policy', 'Share capital', 'Location only'], answer: 0 },
+  { unit: "Unit II", q: "Margin of safety represents:", options: ['Profit', 'Loss', 'Excess sales over BEP', 'Fixed cost'], answer: 2 },
+  { unit: "Unit II", q: "If sales = ₹1,20,000 and variable cost = ₹70,000, contribution =", options: ['₹40,000', '₹50,000', '₹60,000', '₹70,000'], answer: 1 },
+  { unit: "Unit II", q: "Fixed cost ₹25,000, contribution/unit ₹25. BEP units =", options: ['500', '800', '1,000', '1,500'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Machine cost ₹1,20,000, scrap ₹20,000, life 10 yrs. SLM depreciation =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Demand 2,500 units, ordering cost ₹40, carrying cost ₹2. EOQ =", options: ['223', '316', '447', '500'], answer: 1 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HR planning deals with:", options: ['Machines', 'Materials', 'Manpower', 'Money'], answer: 2 },
+  { unit: "Unit III", q: "Selection aims to:", options: ['Attract candidates', 'Reject candidates', 'Choose right candidate', 'Train employees'], answer: 2 },
+  { unit: "Unit III", q: "Safety committee is required under:", options: ['ESI Act', 'Factory Act', 'Wages Act', 'Bonus Act'], answer: 1 },
+  { unit: "Unit III", q: "Helmet is compulsory in industry to prevent:", options: ['Noise', 'Fire', 'Head injury', 'Chemical hazard'], answer: 2 },
+  { unit: "Unit III", q: "Supervisor encouraging suggestions follows:", options: ['Autocratic style', 'Democratic style', 'Laissez-faire', 'Military style'], answer: 1 },
+  { unit: "Unit III", q: "Transfer of employee improves:", options: ['Salary', 'Experience', 'Age', 'Discipline'], answer: 1 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Marketing environment includes:", options: ['Employees only', 'Internal & external factors', 'Customers only', 'Government only'], answer: 1 },
+  { unit: "Unit IV", q: "Packaging mainly helps in:", options: ['Promotion', 'Distribution', 'Protection', 'Pricing'], answer: 2 },
+  { unit: "Unit IV", q: "VED analysis is mainly used in:", options: ['Marketing', 'Production', 'Hospitals & spares', 'Finance'], answer: 2 },
+  { unit: "Unit IV", q: "Advertisement budget is part of:", options: ['Price', 'Product', 'Promotion', 'Place'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Annual demand 1,000 units, ordering cost ₹25, carrying cost ₹1. EOQ =", options: ['158', '200', '224', '316'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Cost ₹600, profit 20% on selling price. SP =", options: ['₹700', '₹720', '₹750', '₹800'], answer: 1 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "Quality control is done by:", options: ['Management', 'Inspection department', 'Workers', 'Customers'], answer: 1 },
+  { unit: "Unit V", q: "Kaizen involves:", options: ['Big changes', 'Continuous small improvements', 'Inspection', 'Automation'], answer: 1 },
+  { unit: "Unit V", q: "ISO 14001 relates to:", options: ['Quality', 'Environment', 'Safety', 'Energy'], answer: 1 },
+  { unit: "Unit V", q: "Arranging tools properly refers to:", options: ['Seiri', 'Seiton', 'Seiso', 'Shitsuke'], answer: 1 },
+  { unit: "Unit V", q: "TQM requires involvement of:", options: ['Managers only', 'Workers only', 'Customers only', 'Everyone'], answer: 3 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "CPM stands for:", options: ['Cost Path Method', 'Critical Project Method', 'Critical Path Method', 'Controlled Path Method'], answer: 2 },
+  { unit: "Unit VI", q: "Project scope creep means:", options: ['Reduced scope', 'Expanded scope', 'Fixed scope', 'No scope'], answer: 1 },
+  { unit: "Unit VI", q: "PERT network is event oriented whereas CPM is:", options: ['Cost oriented', 'Time oriented', 'Activity oriented', 'Resource oriented'], answer: 2 },
+  { unit: "Unit VI", q: "If critical path duration increases, project:", options: ['Finishes early', 'Finishes late', 'Cost decreases', 'Quality improves'], answer: 1 },
+  { unit: "Unit VI", q: "Float is associated with:", options: ['Critical activities', 'Non-critical activities', 'Dummy activities', 'Milestones'], answer: 1 },
+],
+ new_set4: [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Which is a managerial function?", options: ['Accounting', 'Auditing', 'Planning', 'Purchasing'], answer: 2 },
+  { unit: "Unit I", q: "Management is goal-oriented because it:", options: ['Works independently', 'Aims at objectives', 'Avoids responsibility', 'Controls people'], answer: 1 },
+  { unit: "Unit I", q: "Top management is responsible for:", options: ['Daily supervision', 'Operational control', 'Policy formulation', 'Worker discipline'], answer: 2 },
+  { unit: "Unit I", q: "A business owned by the government is:", options: ['Private enterprise', 'Cooperative society', 'Public enterprise', 'Partnership'], answer: 2 },
+  { unit: "Unit I", q: "Equal treatment of employees reflects which principle?", options: ['Discipline', 'Equity', 'Unity of command', 'Initiative'], answer: 1 },
+  { unit: "Unit I", q: "When specialists give directions to workers, organization is:", options: ['Line', 'Functional', 'Project', 'Committee'], answer: 1 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Finance required for short-term operations is called:", options: ['Fixed capital', 'Working capital', 'Equity capital', 'Loan capital'], answer: 1 },
+  { unit: "Unit II", q: "Retained earnings are a source of:", options: ['External finance', 'Short-term finance', 'Internal finance', 'Public finance'], answer: 2 },
+  { unit: "Unit II", q: "Break-even chart shows relationship between:", options: ['Cost & profit', 'Cost, sales & profit', 'Sales & tax', 'Cost & wages'], answer: 1 },
+  { unit: "Unit II", q: "Selling price = ₹100, variable cost = ₹60. Contribution =", options: ['₹20', '₹30', '₹40', '₹50'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost ₹60,000, contribution/unit ₹30. BEP units =", options: ['1,000', '1,500', '2,000', '3,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Asset cost ₹50,000, scrap ₹5,000, life 5 yrs. SLM depreciation =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 1 },
+  { unit: "Unit II", q: "(Numerical) Demand 1,800 units, ordering cost ₹50, carrying cost ₹2/unit. EOQ =", options: ['212', '300', '424', '600'], answer: 2 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HRM is concerned with:", options: ['Planning machines', 'Managing people', 'Managing money', 'Managing materials'], answer: 1 },
+  { unit: "Unit III", q: "Recruitment precedes:", options: ['Training', 'Selection', 'Promotion', 'Transfer'], answer: 1 },
+  { unit: "Unit III", q: "Which act provides medical benefits to workers?", options: ['Factory Act', 'Bonus Act', 'ESI Act', 'Gratuity Act'], answer: 2 },
+  { unit: "Unit III", q: "Ear plugs are used to prevent:", options: ['Fire hazard', 'Noise hazard', 'Chemical hazard', 'Electric hazard'], answer: 1 },
+  { unit: "Unit III", q: "Supervisor taking decisions alone follows:", options: ['Democratic style', 'Laissez-faire style', 'Autocratic style', 'Participative style'], answer: 2 },
+  { unit: "Unit III", q: "Motivation mainly improves:", options: ['Absenteeism', 'Turnover', 'Productivity', 'Fatigue'], answer: 2 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Market consists of:", options: ['Sellers only', 'Buyers only', 'Buyers and sellers', 'Middlemen only'], answer: 2 },
+  { unit: "Unit IV", q: "Marketing mix is also known as:", options: ['Sales mix', 'Price mix', '4Ps', 'Distribution mix'], answer: 2 },
+  { unit: "Unit IV", q: "'B' class items in ABC analysis require:", options: ['No control', 'Moderate control', 'Strict control', 'Maximum control'], answer: 1 },
+  { unit: "Unit IV", q: "Branding helps mainly in:", options: ['Cost reduction', 'Product identification', 'Stock control', 'Price fixation'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Demand 2,000 units, ordering cost ₹20, carrying cost ₹2/unit. EOQ =", options: ['141', '200', '283', '400'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Cost ₹1,200, profit 20% on cost. Selling price =", options: ['₹1,400', '₹1,440', '₹1,500', '₹1,600'], answer: 1 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "TQM stands for:", options: ['Total Quality Manufacturing', 'Total Quality Management', 'Total Quantity Management', 'Technical Quality Method'], answer: 1 },
+  { unit: "Unit V", q: "Quality assurance emphasizes:", options: ['Detection of defects', 'Prevention of defects', 'Rejection of products', 'Rework'], answer: 1 },
+  { unit: "Unit V", q: "Zero defect concept was given by:", options: ['Deming', 'Juran', 'Crosby', 'Ishikawa'], answer: 2 },
+  { unit: "Unit V", q: "Discipline and habit formation relate to:", options: ['Seiri', 'Seiton', 'Seiketsu', 'Shitsuke'], answer: 3 },
+  { unit: "Unit V", q: "ISO certification mainly improves:", options: ['Product cost', 'Process consistency', 'Labor strength', 'Advertisement'], answer: 1 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "Project planning is done in:", options: ['Execution stage', 'Closing stage', 'Initial stage', 'Control stage'], answer: 2 },
+  { unit: "Unit VI", q: "PERT is suitable when activity times are:", options: ['Fixed', 'Known', 'Probabilistic', 'Zero'], answer: 2 },
+  { unit: "Unit VI", q: "CPM focuses mainly on:", options: ['Time control', 'Cost control', 'Resource control', 'Quality control'], answer: 1 },
+  { unit: "Unit VI", q: "If non-critical activity is delayed within float:", options: ['Project delays', 'No effect on project', 'Cost doubles', 'Quality reduces'], answer: 1 },
+  { unit: "Unit VI", q: "Dummy activity shows:", options: ['Duration', 'Cost', 'Dependency', 'Risk'], answer: 2 },
+],
+
+ new_set5 : [
+   // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Management is a:", options: ['Science only', 'Art only', 'Science and art', 'Technique only'], answer: 2 },
+  { unit: "Unit I", q: "Management coordinates human and physical resources to:", options: ['Reduce effort', 'Achieve objectives', 'Increase authority', 'Control workers'], answer: 1 },
+  { unit: "Unit I", q: "Middle level management mainly converts plans into:", options: ['Policies', 'Strategies', 'Actions', 'Objectives'], answer: 2 },
+  { unit: "Unit I", q: "A firm owned and controlled by consumers is a:", options: ['Partnership', 'Cooperative society', 'Joint stock company', 'Sole trade'], answer: 1 },
+  { unit: "Unit I", q: "Division of work results in:", options: ['Confusion', 'Lower efficiency', 'Specialization', 'Centralization'], answer: 2 },
+  { unit: "Unit I", q: "When authority flows vertically, organization follows:", options: ['Matrix structure', 'Line structure', 'Committee structure', 'Project structure'], answer: 1 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Share capital is a source of:", options: ['Short-term finance', 'Long-term finance', 'Temporary finance', 'Trade credit'], answer: 1 },
+  { unit: "Unit II", q: "Debentures carry:", options: ['Variable dividend', 'No return', 'Fixed interest', 'Bonus'], answer: 2 },
+  { unit: "Unit II", q: "Break-even point indicates:", options: ['Maximum profit', 'No profit, no loss', 'Loss', 'Margin of safety'], answer: 1 },
+  { unit: "Unit II", q: "Selling price ₹80, variable cost ₹50. Contribution =", options: ['₹20', '₹25', '₹30', '₹35'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost ₹48,000, contribution/unit ₹24. BEP units =", options: ['1,000', '1,500', '2,000', '2,500'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Machine cost ₹70,000, scrap ₹10,000, life 6 years. SLM depreciation =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 1 },
+  { unit: "Unit II", q: "(Numerical) Annual demand 3,200 units, ordering cost ₹25, carrying cost ₹4/unit. EOQ =", options: ['141', '200', '283', '400'], answer: 2 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HRM is mainly concerned with:", options: ['Discipline only', 'Worker welfare', 'Efficient utilization of manpower', 'Salary fixation'], answer: 2 },
+  { unit: "Unit III", q: "Recruitment aims at:", options: ['Selecting employees', 'Attracting candidates', 'Training employees', 'Motivating employees'], answer: 1 },
+  { unit: "Unit III", q: "Factory Act ensures:", options: ['Insurance', 'Safety, health and welfare', 'Bonus', 'Gratuity'], answer: 1 },
+  { unit: "Unit III", q: "Safety gloves protect workers from:", options: ['Noise', 'Heat and cuts', 'Radiation', 'Stress'], answer: 1 },
+  { unit: "Unit III", q: "Supervisor allowing freedom to workers follows:", options: ['Autocratic', 'Democratic', 'Laissez-faire', 'Military'], answer: 2 },
+  { unit: "Unit III", q: "Training mainly improves:", options: ['Discipline', 'Skill and efficiency', 'Salary', 'Age'], answer: 1 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Marketing begins and ends with:", options: ['Production', 'Sales', 'Customer', 'Profit'], answer: 2 },
+  { unit: "Unit IV", q: "Sales forecasting is estimation of:", options: ['Profit', 'Future sales', 'Inventory', 'Market share'], answer: 1 },
+  { unit: "Unit IV", q: "'C' class items in ABC analysis require:", options: ['Strict control', 'Moderate control', 'Least control', 'Maximum supervision'], answer: 2 },
+  { unit: "Unit IV", q: "Attractive packaging mainly helps in:", options: ['Cost reduction', 'Promotion', 'Production', 'Storage'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Demand 2,500 units, ordering cost ₹40, carrying cost ₹10/unit. EOQ =", options: ['100', '141', '200', '316'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Cost price ₹900, profit 20% on cost. Selling price =", options: ['₹1,020', '₹1,050', '₹1,080', '₹1,100'], answer: 2 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "Quality is defined as fitness for:", options: ['Cost', 'Design', 'Use', 'Inspection'], answer: 2 },
+  { unit: "Unit V", q: "Quality assurance focuses on:", options: ['Detection', 'Inspection', 'Prevention', 'Rejection'], answer: 2 },
+  { unit: "Unit V", q: "Cause-and-effect diagram is also called:", options: ['Flow chart', 'Pareto chart', 'Fishbone diagram', 'Histogram'], answer: 2 },
+  { unit: "Unit V", q: "Standardization of procedures belongs to:", options: ['Seiri', 'Seiton', 'Seiketsu', 'Shitsuke'], answer: 2 },
+  { unit: "Unit V", q: "Continuous improvement is core concept of:", options: ['QC', 'ISO', 'Kaizen', 'TPM'], answer: 2 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "A project has:", options: ['Unlimited duration', 'Routine work', 'Definite start and end', 'Repetitive tasks'], answer: 2 },
+  { unit: "Unit VI", q: "Project planning helps in:", options: ['Confusion', 'Delay', 'Proper scheduling', 'Increased cost'], answer: 2 },
+  { unit: "Unit VI", q: "Gantt chart is a:", options: ['Network diagram', 'Bar chart', 'Pie chart', 'Line graph'], answer: 1 },
+  { unit: "Unit VI", q: "Critical path represents:", options: ['Shortest duration', 'Longest duration', 'Cheapest path', 'Random path'], answer: 1 },
+  { unit: "Unit VI", q: "Float time is zero for:", options: ['Dummy activities', 'Non-critical activities', 'Critical activities', 'Milestones'], answer: 2 },
+],
+
+new_set6 : [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Management is essential because it:", options: ['Eliminates labor', 'Achieves goals efficiently', 'Increases cost', 'Reduces responsibility'], answer: 1 },
+  { unit: "Unit I", q: "Organization structure determines:", options: ['Salary levels', 'Authority relationships', 'Market demand', 'Profit margin'], answer: 1 },
+  { unit: "Unit I", q: "Supervisory management works at:", options: ['Strategic level', 'Tactical level', 'Operational level', 'Policy level'], answer: 2 },
+  { unit: "Unit I", q: "A business owned by shareholders is:", options: ['Partnership', 'Cooperative', 'Company', 'Sole trade'], answer: 2 },
+  { unit: "Unit I", q: "Scalar chain means:", options: ['One boss', 'Equal authority', 'Chain of command', 'Division of work'], answer: 2 },
+  { unit: "Unit I", q: "Project organization is suitable for:", options: ['Mass production', 'Routine work', 'Specific projects', 'Continuous process'], answer: 2 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Finance is the lifeblood of:", options: ['Production', 'Marketing', 'Business', 'HR'], answer: 2 },
+  { unit: "Unit II", q: "Working capital requirement increases when:", options: ['Sales decrease', 'Credit period increases', 'Production stops', 'Stock reduces'], answer: 1 },
+  { unit: "Unit II", q: "Margin of safety indicates:", options: ['Loss', 'Risk level', 'Profit', 'Fixed cost'], answer: 1 },
+  { unit: "Unit II", q: "Selling price ₹120, variable cost ₹70. Contribution =", options: ['₹40', '₹45', '₹50', '₹55'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost ₹90,000, contribution/unit ₹45. BEP units =", options: ['1,500', '2,000', '2,500', '3,000'], answer: 1 },
+  { unit: "Unit II", q: "(Numerical) Asset cost ₹1,00,000, scrap ₹20,000, life 8 years. SLM depreciation =", options: ['₹8,000', '₹9,000', '₹10,000', '₹12,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Demand 5,000 units, ordering cost ₹50, carrying cost ₹2/unit. EOQ =", options: ['316', '447', '500', '707'], answer: 1 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HRM focuses on:", options: ['Machines', 'Materials', 'Money', 'Men'], answer: 3 },
+  { unit: "Unit III", q: "Motivation is the process of:", options: ['Punishment', 'Inspiring employees', 'Controlling workers', 'Training staff'], answer: 1 },
+  { unit: "Unit III", q: "ESI Act provides benefits in case of:", options: ['Strike', 'Sickness', 'Retirement', 'Promotion'], answer: 1 },
+  { unit: "Unit III", q: "Safety helmets are compulsory in:", options: ['Offices', 'Canteens', 'Construction sites', 'Classrooms'], answer: 2 },
+  { unit: "Unit III", q: "Participative supervision improves:", options: ['Conflict', 'Fear', 'Morale', 'Discipline only'], answer: 2 },
+  { unit: "Unit III", q: "Transfer policy mainly helps in:", options: ['Salary increase', 'Employee development', 'Punishment', 'Demotion'], answer: 1 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Market consists of people with:", options: ['Desire only', 'Need and purchasing power', 'Demand only', 'Income only'], answer: 1 },
+  { unit: "Unit IV", q: "Pricing decision affects:", options: ['Cost only', 'Profit only', 'Demand and profit', 'Quality only'], answer: 2 },
+  { unit: "Unit IV", q: "Inventory control aims at:", options: ['Maximum stock', 'Zero stock', 'Optimum stock', 'Overstocking'], answer: 2 },
+  { unit: "Unit IV", q: "Cash discount encourages:", options: ['Late payment', 'Credit sales', 'Early payment', 'Stock return'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Demand 3,600 units, ordering cost ₹30, carrying cost ₹5/unit. EOQ =", options: ['120', '180', '207', '300'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Cost price ₹750, profit 20% on selling price. Selling price =", options: ['₹900', '₹930', '₹940', '₹950'], answer: 1 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "TQM emphasizes:", options: ['Inspection', 'Prevention', 'Rejection', 'Rework'], answer: 1 },
+  { unit: "Unit V", q: "Quality circles involve:", options: ['Managers only', 'Supervisors only', 'Workers participation', 'Customers'], answer: 2 },
+  { unit: "Unit V", q: "ISO 9001 deals with:", options: ['Safety', 'Environment', 'Quality management system', 'Energy'], answer: 2 },
+  { unit: "Unit V", q: "Workplace discipline comes under:", options: ['Seiri', 'Seiton', 'Seiso', 'Shitsuke'], answer: 3 },
+  { unit: "Unit V", q: "TQM success depends on:", options: ['Inspection', 'Management commitment', 'Rework', 'Advertising'], answer: 1 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "PERT is useful for:", options: ['Routine jobs', 'Repetitive work', 'Research projects', 'Mass production'], answer: 2 },
+  { unit: "Unit VI", q: "Project scope defines:", options: ['Cost only', 'Time only', 'Deliverables', 'Risk only'], answer: 2 },
+  { unit: "Unit VI", q: "CPM network uses:", options: ['Events', 'Activities', 'Probabilities', 'Estimates'], answer: 1 },
+  { unit: "Unit VI", q: "Delay in non-critical activity within float causes:", options: ['Project delay', 'No effect', 'Cost increase', 'Failure'], answer: 1 },
+  { unit: "Unit VI", q: "Gantt chart is useful for:", options: ['Cost control', 'Time scheduling', 'Risk analysis', 'Quality control'], answer: 1 },
+],
+
+new_set7 : [
+  // UNIT I - Introduction to Management (6)
+  { unit: "Unit I", q: "Which of the following is NOT a principle of management given by Fayol?", options: ['Unity of command', 'Equity', 'Scientific selection', 'Discipline'], answer: 2 },
+  { unit: "Unit I", q: "Management is considered a profession because it:", options: ['Requires ownership', 'Has no code of conduct', 'Requires specialized knowledge and skills', 'Is hereditary'], answer: 2 },
+  { unit: "Unit I", q: "The concept of 'span of control' is closely related to:", options: ['Departmentation', 'Delegation', 'Number of subordinates', 'Unity of direction'], answer: 2 },
+  { unit: "Unit I", q: "If a supervisor has 15 workers reporting directly, the span of control is:", options: ['Narrow', 'Medium', 'Wide', 'Scalar'], answer: 2 },
+  { unit: "Unit I", q: "Violation of unity of command will MOST LIKELY result in:", options: ['Motivation', 'Discipline', 'Confusion and conflict', 'Coordination'], answer: 2 },
+  { unit: "Unit I", q: "A structure suitable for temporary and complex assignments is:", options: ['Line organization', 'Functional organization', 'Project organization', 'Line and staff organization'], answer: 2 },
+  
+  // UNIT II - Financial Management (7)
+  { unit: "Unit II", q: "Which of the following is an internal source of finance?", options: ['Debentures', 'Bank loan', 'Retained earnings', 'Public deposits'], answer: 2 },
+  { unit: "Unit II", q: "High break-even point indicates:", options: ['Low fixed cost', 'High margin of safety', 'High business risk', 'Low contribution'], answer: 2 },
+  { unit: "Unit II", q: "Contribution is useful for calculating:", options: ['Total cost', 'Profit', 'Break-even point', 'All of the above'], answer: 3 },
+  { unit: "Unit II", q: "Selling price = ₹200/unit, variable cost = ₹140/unit. Contribution ratio is:", options: ['20%', '25%', '30%', '35%'], answer: 2 },
+  { unit: "Unit II", q: "Fixed cost = ₹1,20,000. If contribution ratio is 40%, break-even sales (₹) =", options: ['₹2,40,000', '₹3,00,000', '₹3,20,000', '₹4,00,000'], answer: 2 },
+  { unit: "Unit II", q: "(Numerical) Asset cost ₹2,00,000, scrap ₹20,000, life 9 years. Annual depreciation by SLM =", options: ['₹18,000', '₹20,000', '₹22,000', '₹24,000'], answer: 0 },
+  { unit: "Unit II", q: "(Numerical) Annual demand = 7,200 units, ordering cost = ₹50/order, carrying cost = ₹2/unit/year. EOQ =", options: ['424 units', '600 units', '848 units', '1,200 units'], answer: 1 },
+  
+  // UNIT III - HRM (6)
+  { unit: "Unit III", q: "HRM aims at optimum utilization of:", options: ['Capital', 'Machines', 'Manpower', 'Materials'], answer: 2 },
+  { unit: "Unit III", q: "The main purpose of induction training is to:", options: ['Improve skills', 'Reduce wages', 'Familiarize employee with organization', 'Test employee efficiency'], answer: 2 },
+  { unit: "Unit III", q: "Which act provides compensation without proving employer's negligence?", options: ['Factory Act', 'ESI Act', 'Workmen Compensation Act', 'Bonus Act'], answer: 2 },
+  { unit: "Unit III", q: "Installing exhaust fans in a foundry shop mainly controls:", options: ['Noise hazard', 'Dust and fumes', 'Electric shock', 'Fire hazard'], answer: 1 },
+  { unit: "Unit III", q: "A supervisor allowing workers to take decisions independently follows:", options: ['Autocratic style', 'Democratic style', 'Laissez-faire style', 'Bureaucratic style'], answer: 2 },
+  { unit: "Unit III", q: "Job rotation is mainly used to:", options: ['Reduce salary', 'Avoid monotony', 'Increase punishment', 'Improve discipline'], answer: 1 },
+  
+  // UNIT IV - Marketing & Inventory (6)
+  { unit: "Unit IV", q: "Marketing management primarily aims at:", options: ['Maximum production', 'Maximum sales', 'Customer satisfaction', 'Cost minimization'], answer: 2 },
+  { unit: "Unit IV", q: "The most important objective of inventory control is:", options: ['Large stock', 'Zero stock', 'Optimum stock level', 'Maximum storage'], answer: 2 },
+  { unit: "Unit IV", q: "In ABC analysis, 'A' items generally represent about:", options: ['10% items, 70% value', '20% items, 80% value', '50% items, 50% value', '70% items, 20% value'], answer: 1 },
+  { unit: "Unit IV", q: "A company increases advertising expenditure mainly to:", options: ['Reduce cost', 'Improve brand recall', 'Reduce inventory', 'Control price'], answer: 1 },
+  { unit: "Unit IV", q: "(Numerical) Annual demand = 4,000 units, ordering cost = ₹25, carrying cost = ₹4/unit. EOQ =", options: ['200', '224', '316', '400'], answer: 2 },
+  { unit: "Unit IV", q: "(Numerical) Cost price ₹1,500. Profit is 20% on selling price. Selling price =", options: ['₹1,750', '₹1,800', '₹1,875', '₹1,920'], answer: 2 },
+  
+  // UNIT V - TQM (5)
+  { unit: "Unit V", q: "TQM considers quality responsibility of:", options: ['Inspectors', 'Workers only', 'Management only', 'Entire organization'], answer: 3 },
+  { unit: "Unit V", q: "Six Sigma methodology mainly focuses on reducing:", options: ['Cost', 'Defects', 'Inventory', 'Time'], answer: 1 },
+  { unit: "Unit V", q: "The PDCA cycle was developed by:", options: ['Juran', 'Crosby', 'Deming', 'Taylor'], answer: 2 },
+  { unit: "Unit V", q: "'Standardize and sustain' in 5S corresponds to:", options: ['Seiri & Seiton', 'Seiton & Seiso', 'Seiketsu & Shitsuke', 'Seiso & Seiri'], answer: 2 },
+  { unit: "Unit V", q: "ISO certification mainly helps an organization to:", options: ['Increase profit directly', 'Improve customer confidence', 'Reduce tax', 'Increase manpower'], answer: 1 },
+  
+  // UNIT VI - Project Management (5)
+  { unit: "Unit VI", q: "A milestone in project management represents:", options: ['An activity', 'An event with zero duration', 'A dummy activity', 'A critical activity'], answer: 1 },
+  { unit: "Unit VI", q: "The critical path of a project determines:", options: ['Minimum project cost', 'Maximum project duration', 'Shortest project duration', 'Average project duration'], answer: 2 },
+  { unit: "Unit VI", q: "PERT is preferred over CPM when:", options: ['Activity times are fixed', 'Cost control is important', 'Activity times are uncertain', 'Project is repetitive'], answer: 2 },
+  { unit: "Unit VI", q: "If float of an activity is 3 days, it means activity can be delayed by:", options: ['Exactly 3 days without affecting project completion', 'More than 3 days without effect', '3 days causing project delay', 'Zero days without effect'], answer: 0 },
+  { unit: "Unit VI", q: "If one activity on critical path is delayed by 5 days, project completion will be delayed by:", options: ['0 days', '3 days', '5 days', 'Depends on float'], answer: 2 },
+],
+
+
   // A new user-added set with a unique name ✅
 };
